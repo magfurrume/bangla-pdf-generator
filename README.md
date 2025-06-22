@@ -133,4 +133,4 @@ Pull requests and issues welcome! Please ensure ESLint passes.
 ---
 
 ## 📜 License
-MIT © 2025 Your Name
+MIT © 2025 Md. Magfur Alam

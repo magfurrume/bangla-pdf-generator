@@ -4,20 +4,20 @@
   "description": "A powerful Node.js utility for generating richly formatted PDF documents in Bangla (Bengali) using custom fonts, tables, images, headers, footers, and multi-column layouts. Ideal for reports, certificates, and form-based documents in Bengali script. Supports Kalpurush and NotoSansBengali fonts out of the box with Puppeteer-based rendering.",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [
+
+   "keywords": [
     "bangla",
     "pdf",
+    "bengali",
     "puppeteer",
-    "npm",
-    "unicode"
+    "report",
+    "generator",
+    "kalpurush",
+    "notosans"
   ],
   "author": "Magfur Rume",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^3.3.2",
     "puppeteer": "^21.0.0"
   }
 }
